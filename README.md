@@ -41,6 +41,8 @@ To edit the information for an existing technology, you need to open a Pull Requ
 | [Yjs](placeholder-homepage-yjs)                                                         | [`yjs/local-first-landscape-data`](https://github.com/yjs/local-first-landscape-data)                     |
 | [Zero](placeholder-homepage-zero)                                                       | [`rocicorp/local-first-landscape-data`](https://github.com/rocicorp/local-first-landscape-data)         |
 | [Instant](https://instantdb.com)                                                        | [`instantdb/local-first-landscape-data`](https://github.com/instantdb/local-first-landscape-data)         |
+| [PouchDB](https://instantdb.com)                                                        | [`neighbourhoodie/pouchdb-landscape-data`](https://github.com/neighbourhoodie/pouchdb-landscape-data)         |
+
 
 Make your changes to the relevant files in that repository.
 
